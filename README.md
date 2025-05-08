@@ -44,6 +44,9 @@ The project focuses on transforming this raw data into meaningful visualizations
 
 ---
 
+## Sample Output
+![Sample Output](https://github.com/srishti-cmd/ML-Website/blob/master/output.png)
+
 ## 🔍 Features
 
 - Dynamic pivot tables for KPI monitoring
