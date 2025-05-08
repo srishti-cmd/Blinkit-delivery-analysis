@@ -45,7 +45,7 @@ The project focuses on transforming this raw data into meaningful visualizations
 ---
 
 ## Sample Output
-![Sample Output](Screenshot 2025-05-08 211426.png)
+![Sample Output]((https://github.com/srishti-cmd/Blinkit-delivery-analysis/blob/main/Screenshot%202025-05-08%20211426.png))
 
 ## 🔍 Features
 
