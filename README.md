@@ -45,7 +45,7 @@ The project focuses on transforming this raw data into meaningful visualizations
 ---
 
 ## Sample Output
-![Sample Output]([https://github.com/srishti-cmd/ML-Website/blob/master/output.png](https://github.com/srishti-cmd/Blinkit-delivery-analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel%20(1)%20(1).xlsx))
+![Sample Output](Screenshot 2025-05-08 211426.png)
 
 ## 🔍 Features
 
