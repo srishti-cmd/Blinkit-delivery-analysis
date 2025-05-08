@@ -44,12 +44,6 @@ The project focuses on transforming this raw data into meaningful visualizations
 
 ---
 
-## 📁 Project Files
-
-- **BlinkIT Grocery Data Excel.xlsx** – Raw dataset containing sales information
-
----
-
 ## 🔍 Features
 
 - Dynamic pivot tables for KPI monitoring
